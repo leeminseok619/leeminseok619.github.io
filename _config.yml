@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이민석"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/제목 없음.png"
   bio              : "c언어 배우는 고등학생."
   location         : "대한민국, 서울"
   email            : "20-20922@hafs.hs.kr"
