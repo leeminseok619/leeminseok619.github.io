@@ -7,7 +7,7 @@ toc_label: "페이지 주요 목차"
 ---
 
 ### 01. 사주보기
-
+~~~c
 #include <stdio.h>
 int main(void)
 { int year,month,day,result;
@@ -25,7 +25,7 @@ int main(void)
 ~~~ 
 
 ### 02. 3개의 터널 통과
-
+~~~c
 #include <stdio.h>
  int main(void)
 { int tunnul_1, tunnul_2, tunnul_3;
@@ -42,8 +42,9 @@ int main(void)
  return 0;
  }
 ~~~ 
-### 03. 이 달은 며칠까지 있을까?
 
+### 03. 이 달은 며칠까지 있을까?
+~~~c
 #include <stdio.h>
 int main(void)
 { int year, month;
